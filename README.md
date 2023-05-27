@@ -1,4 +1,4 @@
-# smarteschool_apps
+# Slicing App
 
 A new Flutter project.
 
